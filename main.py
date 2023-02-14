@@ -78,7 +78,7 @@ while True:
 
 bitrate = int(bitrate)
 
-outSize = os.path.getsize("input.mp4")
+outSize = os.path.getsize(input_file)
 os.path
 
 # Estimate time
