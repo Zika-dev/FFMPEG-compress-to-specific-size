@@ -11,7 +11,7 @@ I made this a while ago so the code is not very good, but it seems to be working
 - File will be outputted as "output.mp4"
 
 # Warning
-
+### You need to call the input file "input.mp4"
 I have noticed that it's not very accurate.
 ### Example: When i want to compress something to 50mb, the file size may be compressed to 40-45mb. I can probably fix this but it's gonna take a longer time to render the video
 
